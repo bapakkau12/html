@@ -1,0 +1,255 @@
+.banner {
+    background-color: #ECEBEB;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+    .navbar-judul{
+        position: absolute;
+    width: 146px;
+    height: 91px;
+    left: 79px;
+    top: 57px;
+    
+    font-family: Rage Italic;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 70px;
+    line-height: 88px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;
+    
+    }
+    .navbar-judul {
+        position: absolute;
+        width: 83px;
+        height: 25px;
+        left: 117px;
+        top: 148px;
+        
+        font-family: Rage Italic;
+        font-style: italic;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 25px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        
+        color: #000000;
+    }
+    .judul-banner {
+        position: absolute;
+        width: 719px;
+        height: 500px;
+        left: 706px;
+        top: 168px;
+        
+        font-family: Miama;
+        font-style: italic;
+        font-weight: normal;
+        font-size: 80px;
+        line-height: 250px;
+        display: flex;
+        align-items: center;
+        text-align: right;
+        text-shadow:0px 4px 4px;
+        color: #6B4444;
+    }
+    
+    .btn-gabung {
+        position: absolute;
+    width: 113px;
+    height: 50px;
+    left: 1180px;
+    top: 49px;
+    
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 50px;
+    
+    
+    color: #6B4444;
+    
+    }
+    .image-banner-1 {
+        height: 401px;
+    width: 392px;
+    left: 114px;
+    top: 30px;
+    border-radius: 28px;
+    
+    margin-top: 230px;
+    margin-left: -400px;
+    background-image: url(../img/banner/banner-1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    }
+    .image-banner-2 {
+        height: 380px;
+        width: 350px;
+        left: 373px;
+        top: 432x;
+        border-radius: 28px;
+     
+        margin-top:-171px;
+    margin-left:-300px;
+    background-image: url(../img/banner/banner-2.png);
+        background-size: cover;
+         background-repeat: no-repeat;
+    
+    }
+    
+    /* penjelasan*/
+    .img-penjelasan{
+        margin-top: 120px;
+        height: 327.5px;
+        width: 330.5px;
+        left: 1017.5px;
+        top: 903px;
+        border-radius: 20px;
+        margin-left: 700px;
+    
+    }
+    
+    .judul-penjelasan{
+        position: absolute;
+        width: 463px;
+        height: 60px;
+        left: 390px;
+        top: 1000px;
+        
+        font-family: 'Allura';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 48px;
+        line-height: 60px;
+        
+        color: #000000; 
+    }
+    .isi-penjelasan{
+        position: absolute;
+        width: 574px;
+        height: 109px;
+        left: 356px;
+        top: 1070px;
+        
+        font-family: 'Bellefair';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 28px;
+        line-height: 41px;
+        margin-left: 0px;
+        text-align: center ;
+        
+        color: #000000;
+    
+    }
+    .btn-bergabung {
+        position: absolute;
+        width: 120px;
+        height: 30px;
+        left: 1033px;
+        top: 1561px;
+    
+        font-family: 'Lora';
+        font-size: 28px;
+        line-height: 45px;
+        color: #6B4444;
+        
+    
+    }
+    .sub-penjelasan{
+        margin-top: 120px;
+    }
+    .sub-judul-penjelasan{
+        position: absolute;
+    width: 453px;
+    height: 85px;
+    left: 221px;
+    top: 1400px;
+    
+    font-family: Allura;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 60px;
+    
+    color: #000000;
+    }
+    .isi-sub-penjelasan{
+        position: absolute;
+    width: 873px;
+    height: 173px;
+    left: 256px;
+    top: 1451px;
+    
+    font-family: 'Bellefair';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 40px;
+    
+    color: #000000;
+    }
+    .promo{
+        margin-top: 500px;
+        background-color: #ECEBEB;
+        padding-bottom: 50px;
+    
+    }
+    .judul-promo{
+        font-family: 'Allura';
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 100px;
+    letter-spacing: 0em;
+    
+    }
+    .box-promo{
+      width: 293px;
+      height: 437px;
+      left: 152px;
+      top: 1999px;
+      
+      background: #FFFFFF;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      border-radius: 10px;
+    
+    }
+    .nama-promo{
+        font-family: 'Lora';
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+    }
+    .btn-beli{
+        position: relative;
+        width: 145px;
+    height: 44px;
+    left: 0px;
+    top: 40px;
+    
+    background: #737070;
+    border-radius: 20px;
+     
+    }
+    .btn-findmore{
+        position: relative;
+        width: 458px;
+        height: 63px;
+        left: 300px;
+        top: 100px;
+        background: #737070;
+        box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 20px;
+    }
